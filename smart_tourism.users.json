@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "65c23a5a7a71d46347a7ec33"
+  },
+  "name": "Anastasis",
+  "age": 22,
+  "email": "anastasiskal@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c23a997a71d46347a7ec36"
+  },
+  "name": "Giannis",
+  "age": 19,
+  "email": "giannisk@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c23cee7a71d46347a7ec42"
+  },
+  "name": "Panagiotis",
+  "age": 35,
+  "email": "panagiotismp@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c23d8a7a71d46347a7ec45"
+  },
+  "name": "Alexandros",
+  "age": 40,
+  "email": "alexandrosvl@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c3d32c629ba25667002c36"
+  },
+  "name": "Takis",
+  "age": 70,
+  "email": "takpan@gmail.com",
+  "__v": 0
+}]

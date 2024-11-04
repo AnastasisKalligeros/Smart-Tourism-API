@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "65c2439e7a71d46347a7ec48"
+  },
+  "name": "Ναυτικό",
+  "category": "Στρατος",
+  "address": "Αθήνα, Ελλάδα",
+  "coordinates": [
+    37.9755,
+    23.734
+  ],
+  "photo": "https://polemikonautiko.com/photos/nautiko.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c243d07a71d46347a7ec4a"
+  },
+  "name": "Παρθενώνας",
+  "category": "Αρχαιολογικός Χώρος",
+  "address": "Αθήνα, Ελλάδα",
+  "coordinates": [
+    37.9715,
+    23.7251
+  ],
+  "photo": "https://history.com/photos/parthenon.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c244bd7a71d46347a7ec4c"
+  },
+  "name": "Μουσείο Λούβρου",
+  "category": "Μουσείο",
+  "address": "Παρίσι, Γαλλία",
+  "coordinates": [
+    48.8606,
+    2.3376
+  ],
+  "photo": "https://gallia.com/photos/louvre.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c245057a71d46347a7ec4e"
+  },
+  "name": "Ακρόπολη",
+  "category": "Αρχαιολογικός Χώρος",
+  "address": "Αθήνα, Ελλάδα",
+  "coordinates": [
+    37.9715,
+    23.7251
+  ],
+  "photo": "https://arxaia.com/photos/akropoli.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c3d544629ba25667002c38"
+  },
+  "name": "stratos",
+  "category": "palaska",
+  "address": "Αθήνα, Ελλάδα",
+  "coordinates": [
+    37.9756,
+    23.6867
+  ],
+  "photo": "https://straos.com/photos/eidikesdynameis.jpg",
+  "__v": 0
+}]
